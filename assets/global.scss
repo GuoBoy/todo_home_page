@@ -1,0 +1,16 @@
+html,
+body,
+#__nuxt,
+.app {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background: rgb(55, 60, 73);
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
